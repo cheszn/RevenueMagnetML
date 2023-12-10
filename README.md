@@ -24,7 +24,7 @@ Evaluating the model's performance in terms of precision, recall, and F1-score a
 Handling potential class imbalances requires careful consideration.
 For the technical aspects, you would likely employ advanced techniques such as ensemble methods (e.g., Random Forests, Gradient Boosting) or even explore more sophisticated models like neural networks. Feature engineering and hyperparameter tuning will play crucial roles in optimizing model performance.
 
-<---------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<--------------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### **Long-Term Project Objective:**
 
@@ -52,7 +52,7 @@ Continuous Improvement:
 
 Establish a framework for ongoing model evaluation and improvement, ensuring that the system remains effective in dynamic business environments.
 
-<---------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<--------------------------------------------------------------------------------------------------------------------------------------------------->
 
 ## Set up your Environment
 
