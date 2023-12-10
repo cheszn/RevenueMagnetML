@@ -22,6 +22,8 @@ tensorflow-docs
 tensorflow
 Flask==3.0.0
 blinker==1.7.0
-Werkzeug==2.0.1
+Werkzeug>=3.0.0
+category_encoders==2.6.3
+streamlit
 
 
